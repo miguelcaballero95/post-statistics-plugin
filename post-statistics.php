@@ -9,6 +9,9 @@
 	Domain Path: /languages
 */
 
+if ( ! defined( 'ABSPATH' ) )
+	exit; // Exit if accessed directly in this file
+
 class Post_Statistics {
 
 	/**
